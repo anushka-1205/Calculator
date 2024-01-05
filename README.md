@@ -1,4 +1,4 @@
-# Calculator WebApp
+# Calculator Web Application
 This WebApp is a user-friendly webapp for mathematical calculations. The application takes in a mathematical expression and displays the result. Keyboard controls are also added for a smooth experience.
 
 
